@@ -14,7 +14,7 @@ public class Contador {
         }
 
         for(int i = numeroUm; i <= numeroDois; i++){
-            System.out.println("Número: " + i);
+            System.out.println("Imprimindo o número " + i);
         }
     }
 
